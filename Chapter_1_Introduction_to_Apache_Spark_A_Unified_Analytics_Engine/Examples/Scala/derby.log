@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 09 03:28:42 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0181-4794-7a0b-000001c06f60 
+on database directory /home/ricardo/Documentos/Learning_Spark_Book/Chapter_1_Introduction_to_Apache_Spark_A_Unified_Analytics_Engine/Examples/Scala/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=11.0.15+10-Ubuntu-0ubuntu0.20.04.1
+user.dir=/home/ricardo/Documentos/Learning_Spark_Book/Chapter_1_Introduction_to_Apache_Spark_A_Unified_Analytics_Engine/Examples/Scala
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-44-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
